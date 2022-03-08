@@ -11,9 +11,7 @@ Este projeto tem como propósito criar uma página de cadastro de transações, 
 **Server:** MirageJS, Axios.
 
 
-## Autor
 
-- [michelwene](https://www.linkedin.com/in/michelwene/)
 
 
 ## Lições Aprendidas
@@ -33,4 +31,8 @@ Este projeto tem como propósito criar uma página de cadastro de transações, 
 <p  align="center" >
 <img src="./src/assets/DtMoney.gif">
 </p>
+
+## Autor
+
+- [michelwene](https://www.linkedin.com/in/michelwene/)
 
