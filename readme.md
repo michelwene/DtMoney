@@ -29,5 +29,8 @@ Este projeto tem como propósito criar uma página de cadastro de transações, 
 ## Screenshots
 
 ![Desktop](./src/assets/desktop.png)
-[GIF](./src/assets/DtMoney.gif)
+- Gif
+<p  align="center" >
+<img src="./src/assets/DtMoney.gif">
+</p>
 
